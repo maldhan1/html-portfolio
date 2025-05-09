@@ -24,3 +24,36 @@ footer {
   padding: 1em;
   margin-top: 2em;
 }
+
+
+
+
+
+
+
+
+.auth-form {
+  max-width: 400px;
+  margin: auto;
+  padding: 1em;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+.auth-form input {
+  width: 100%;
+  padding: 0.5em;
+  margin: 0.3em 0;
+}
+.auth-form button {
+  padding: 0.5em 1em;
+  background-color: #2e86de;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.auth-form button:hover {
+  background-color: #1b4f72;
+}
+
+
+
